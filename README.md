@@ -33,3 +33,15 @@
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 ![mygirlfriend](dog.jpg "hello")
+
+
+<hr>
+# 專題題目: 全自動咖啡豆烘焙機
+## 專題需求:
+
+
+
+
+
+
+
