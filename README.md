@@ -66,39 +66,10 @@
 ```
 
 #### 案例圖:
-![Sqe](Sqe.png "hello")
+![Sqe](Sqe.png "Sqe")
 
 #### User_story:
 ```
 我是小明，是個剛出社會的新鮮人，面對社會的壓力每日熬夜，養成了喝咖啡的習慣，但是我常常有困擾是在於每次烘焙時的味道都不一
 咖啡豆也時常不注意就燒焦，如果能有一台自動烘豆機，能幫助我記錄每次烘豆的情形，就可以解決上面的那些問題
 ```
-
-
-
-
-Homework 1
-
-[hackMD](https://hackmd.io/s/features-tw)
-
-<https://hackmd.io/s/features-tw>
-
-
-| First | Second | Third |
-|:------|:------:|------:|
-| 1 | 2 | 3 |
-| 1 | 2 | 3 |
-
-
-:blush::blush::blush::blush::blush::blush::blush:
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-![mygirlfriend](dog.jpg "hello")
-
-
-
-
-
-
-
